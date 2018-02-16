@@ -5,7 +5,7 @@ using UnityEngine;
 public class Hi : MonoBehaviour {
 
 	// Use this for initialization
-	void Start () {
+	void Starter () {
 		
 	}
 	
