@@ -16,6 +16,6 @@ public class Hi : MonoBehaviour {
 
     void OnGUI()
     {
-        GUI.Label(new Rect(1, 1, 30, 20), "hello");
+        GUI.Label(new Rect(1, 1, 30, 30), "hello");
     }
 }
